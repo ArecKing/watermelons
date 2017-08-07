@@ -1,5 +1,3 @@
-# watermelons
-I wanna to eat watermelons.
 
 Hi,Humans!
 
